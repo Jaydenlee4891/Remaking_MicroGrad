@@ -1,7 +1,3 @@
-
-
-
-
 # Remaking_MicroGrad
 
 
